@@ -14,11 +14,14 @@ app.use(cors());
 
 // Base route
 app.get("/", (req, res)=> {
-    res.status(200).send("Welcome to Local API \n if you have an account go to '/login' to login \n or go to '/sign_up' to create an account if you don't have one.")
+    res.status(200).send("Welcome to Locale API \n if you have an account go to '/login' to login \n or go to '/sign_up' to create an account if you don't have one.")
 });
 
 app.get("/api", (req, res)=> {
-    res.status(200).send("Welcome to Local API \n if you have an account go to '/login' to login \n or go to '/sign_up' to create an account if you don't have one.")
+    res.status(200).send("Welcome to Locale API \n if you have an account go to '/login' to login \n or go to '/sign_up' to create an account if you don't have one.")
+});
+app.get("*", (req, res)=> {
+    res.status(200).send("Route not supported.")
 });
 
 app.listen(PORT, ()=>{
