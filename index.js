@@ -1,9 +1,16 @@
 // Import dependencies
 const express = require("express");
-const logger = require("cors");
+const logger = require("morgan");
+const cors = require('cors');
 
 const app = express();
 const PORT = 5000;
+
+
+
+// App level Middleware.
+app.use(logger('dev'));
+app.use(cors());
 
 // Base route
 app.get("/", (req, res)=> {
