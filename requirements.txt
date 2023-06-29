@@ -35,3 +35,10 @@ Locale Requirements:
 - postal code: string
 - population: string
 - description: string
+
+4. User Model: 
+- id: string
+- firstname: string
+- lastname: string
+- email: string
+- api_key: string
