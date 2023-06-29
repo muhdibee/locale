@@ -16,12 +16,16 @@ Locale Requirements:
 - id: string
 - name: string
 - states: array of states
+- population: string
+- description: string
 
 2. State Model:
 - id: string
 - name: string
 - region: string
 - lgas: array of lgas
+- population: string
+- description: string
 
 3. LGA Model:
 - id: string
