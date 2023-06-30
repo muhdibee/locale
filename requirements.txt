@@ -42,3 +42,4 @@ Locale Requirements:
 - lastname: string
 - email: string
 - api_key: string
+- created_at
