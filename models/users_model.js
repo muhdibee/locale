@@ -1,9 +1,9 @@
 require('dotenv').config();
-import mongoose from "mongoose";
+const mongoose =require("mongoose");
 
-const schema = mongoose.schema;
+const Schema = mongoose.Schema
 
-const UserSchema = new schema({
+const UserSchema = new Schema({
     first_name: {
         type: String,
         required:[true, "FirstName is required"],
