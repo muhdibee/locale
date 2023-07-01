@@ -1,9 +1,8 @@
-const {states} = require('../models/users_model');
+const {states} = require('../models/states_model');
 
 //GET users
 const get_states = async(req, res)=> {
     try {
-        return res.status(200).send("Testing states get.")
         const all_states = await states.find({});
         return res.status(200).json({all_states})
     }

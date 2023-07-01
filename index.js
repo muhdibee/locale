@@ -2,8 +2,11 @@
 const express = require("express");
 const logger = require("morgan");
 const cors = require('cors');
+
+// Import local modules
 const connect_to_database = require("./db_connection");
-const users_route = require('./routes/users_route');
+const users_router = require('./routes/users_route');
+const states_router = require('./routes/states_route');
 
 const app = express();
 const PORT = 5000;
@@ -17,7 +20,9 @@ app.use(logger('dev'));
 app.use(cors());
 
 // Route Middleware
-app.use("/api/users", users_route)
+app.use("/api/users", users_router);
+app.use("/api/states", states_router)
+
 
 // Base route
 app.get("/", (req, res)=> {
