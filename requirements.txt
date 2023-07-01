@@ -22,8 +22,10 @@ Locale Requirements:
 2. State Model:
 - id: string
 - name: string
+- capital: string
 - region: string
-- lgas: array of lgas
+- no_of_lgas: number
+- local_gov_areas
 - population: string
 - description: string
 
@@ -43,3 +45,6 @@ Locale Requirements:
 - email: string
 - api_key: string
 - created_at
+
+
+please create an array of nigerian states using this object format having the following properties: name, region, population, description, `no_of_lgas: number of local government areas in the state` `local_gov_area: array of local government areas in the state`.
