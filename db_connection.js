@@ -6,7 +6,7 @@ const DB_URL = process.env.DB_URL;
 module.exports = ()=>{
     try{
         mongoose.connect(DB_URL);
-        mongoose.connection.on('connect', ()=>{
+        mongoose.connection.on('connected', ()=>{
             console.log("Connected to Database successfully.")
         });
         mongoose.connection.on("error", (err)=>{

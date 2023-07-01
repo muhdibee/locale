@@ -2,15 +2,22 @@
 const express = require("express");
 const logger = require("morgan");
 const cors = require('cors');
+const connect_to_database = require("./db_connection");
+const users_route = require('./routes/users_route');
 
 const app = express();
 const PORT = 5000;
 
-
+// DB connection
+connect_to_database();
 
 // App level Middleware.
+app.use(express.json())
 app.use(logger('dev'));
 app.use(cors());
+
+// Route Middleware
+app.use("/api/users", users_route)
 
 // Base route
 app.get("/", (req, res)=> {
@@ -23,6 +30,7 @@ app.get("/api", (req, res)=> {
 app.get("*", (req, res)=> {
     res.status(404).send("Route not supported.")
 });
+
 
 app.listen(PORT, ()=>{
     console.log("Listening on port: ", PORT);
