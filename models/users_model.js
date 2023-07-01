@@ -2,7 +2,6 @@ require('dotenv').config();
 const mongoose =require("mongoose");
 
 const Schema = mongoose.Schema
-
 const UserSchema = new Schema({
     first_name: {
         type: String,
@@ -28,7 +27,7 @@ const UserSchema = new Schema({
     created_at: {
         type: Date,
         required:[true, "api_key is required"],
-        default: new Date().toISOString,
+        default: new Date().toISOString(),
 
     }
 });
