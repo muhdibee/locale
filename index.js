@@ -7,6 +7,10 @@ const cors = require('cors');
 const connect_to_database = require("./db_connection");
 const users_router = require('./routes/users_route');
 const states_router = require('./routes/states_route');
+const {states} = require('./models/states_model');
+const statesObject = require("./data");
+
+console.log("States type: ", typeof statesObject)
 
 const app = express();
 const PORT = 5000;
@@ -35,6 +39,20 @@ app.get("/api", (req, res)=> {
 app.get("*", (req, res)=> {
     res.status(404).send("Route not supported.")
 });
+
+
+states.insertMany(statesObject)
+  .then((result) => {
+    console.log(`Inserted count: ${result.length}`);
+    // Close the MongoDB connection
+    // mongoose.connection.close();
+  })
+  .catch((err) => {
+    console.error('Error inserting documents:', err);
+    // Close the MongoDB connection
+    // mongoose.connection.close();
+  });
+
 
 
 app.listen(PORT, ()=>{

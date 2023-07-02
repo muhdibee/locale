@@ -34,7 +34,7 @@ const statesSchema = new Schema({
         trim: true,
     },
     description: {
-        type: Number,
+        type: String,
         required:[true, "description is required"],
         default: "State description.",
         trim: true,
