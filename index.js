@@ -8,9 +8,7 @@ const connect_to_database = require("./db_connection");
 const users_router = require('./routes/users_route');
 const states_router = require('./routes/states_route');
 const {states} = require('./models/states_model');
-const statesObject = require("./data");
-
-console.log("States type: ", typeof statesObject)
+const {states_data} = require("./data");
 
 const app = express();
 const PORT = 5000;
@@ -41,7 +39,10 @@ app.get("*", (req, res)=> {
 });
 
 
-states.insertMany(statesObject)
+states.deleteMany({})
+  .then(()=>{
+    return states.create(states_data)
+  })
   .then((result) => {
     console.log(`Inserted count: ${result.length}`);
     // Close the MongoDB connection

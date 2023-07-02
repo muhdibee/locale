@@ -47,4 +47,6 @@ Locale Requirements:
 - created_at
 
 
-please create an array of nigerian states using this object format having the following properties: name, region, population, description, `no_of_lgas: number of local government areas in the state` `local_gov_area: array of local government areas in the state`.
+Sure! Here is a list of the 36 states in Nigeria:
+
+Please note that this information is based on the knowledge available up to September 2021, and there may not have been any changes since then.
