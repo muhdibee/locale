@@ -39,20 +39,20 @@ app.get("*", (req, res)=> {
 });
 
 
-states.deleteMany({})
-  .then(()=>{
-    return states.create(states_data)
-  })
-  .then((result) => {
-    console.log(`Inserted count: ${result.length}`);
-    // Close the MongoDB connection
-    // mongoose.connection.close();
-  })
-  .catch((err) => {
-    console.error('Error inserting documents:', err);
-    // Close the MongoDB connection
-    // mongoose.connection.close();
-  });
+// states.deleteMany({})
+//   .then(()=>{
+//     return states.create(states_data)
+//   })
+//   .then((result) => {
+//     console.log(`Inserted count: ${result.length}`);
+//     // Close the MongoDB connection
+//     // mongoose.connection.close();
+//   })
+//   .catch((err) => {
+//     console.error('Error inserting documents:', err);
+//     // Close the MongoDB connection
+//     // mongoose.connection.close();
+//   });
 
 
 

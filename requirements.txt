@@ -9,7 +9,7 @@ Locale Requirements:
 
 2. General APIs:
 - Users should be able to get all regions.
-- Users should be able to get all states.
+- Users should be able to get all states. ✔️
 - Users should be able to get all LGAs.
 
 1. Region Model:
@@ -47,6 +47,4 @@ Locale Requirements:
 - created_at
 
 
-Sure! Here is a list of the 36 states in Nigeria:
-
-Please note that this information is based on the knowledge available up to September 2021, and there may not have been any changes since then.
+please create an array of json objects containing information about regions in Nigeria, the json objects should contain the following keys: name, states, description, description

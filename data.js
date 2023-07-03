@@ -1,3 +1,6 @@
+const region_data = []
+
+
 const states_data = [
     {
       "name": "Abia",
@@ -337,6 +340,7 @@ const states_data = [
   
 
   module.exports = {
-    states_data
+    states_data,
+    region_data
 };
   
