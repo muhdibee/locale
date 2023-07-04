@@ -17,8 +17,18 @@ const regionsSchema = new Schema({
                 required: [true, "LGA is required."]
             }
         }
-    ]
+    ],
+    capital:{
+        type: String,
+        required: [true, "capital is required."]
+    },
+    description:{
+        type: String,
+        required: [true, "description is required."]
+    },
 
 })
 
 const regions = mongoose.model("regions", regionsSchema);
+
+module.exports = {regions}

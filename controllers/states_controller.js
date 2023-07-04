@@ -1,6 +1,6 @@
 const {states} = require('../models/states_model');
 
-//GET users
+//GET states
 const get_states = async(req, res)=> {
     try {
         const all_states = await states.find({}, {"name":1, "capital":1, "region":1, "population":1, "description":1, "no_of_lgas":1, "local_gov_areas":1,  "_id":0 });
@@ -10,6 +10,18 @@ const get_states = async(req, res)=> {
         console.log("Error: ", err)
     }
 };
+
+const search_states = async(req, res)=> {
+    const {state} = req.params;
+    try {
+        const all_states = await states.findOne({ name: { $regex: new RegExp(`^${state}$`, 'i') } }, {"name":1, "capital":1, "region":1, "population":1, "description":1, "no_of_lgas":1, "local_gov_areas":1,  "_id":0 });
+        return res.status(200).json({all_states})
+    }
+    catch(err){
+        console.log("Error: ", err)
+    }
+};
+
 
 // const post_states = async(req, res)=> {
 //     // const {first_name, last_name, email } = req.body;
@@ -31,4 +43,5 @@ const get_states = async(req, res)=> {
 
 module.exports = {
     get_states,
+    search_states,
 }
