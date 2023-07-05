@@ -8,7 +8,10 @@ const connect_to_database = require("./db_connection");
 const users_router = require('./routes/users_route');
 const states_router = require('./routes/states_route');
 const {states} = require('./models/states_model');
+// const {states_data} = require("./data");
+const {regions} = require('./models/states_model');
 const {states_data} = require("./data");
+
 
 const app = express();
 const PORT = 5000;
@@ -23,7 +26,7 @@ app.use(cors());
 
 // Route Middleware
 app.use("/api/users", users_router);
-app.use("/api/states", states_router)
+app.use("/api/nigeria/states", states_router)
 
 
 // Base route

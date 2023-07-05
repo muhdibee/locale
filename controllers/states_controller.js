@@ -3,7 +3,7 @@ const {states} = require('../models/states_model');
 //GET states
 const get_states = async(req, res)=> {
     try {
-        const all_states = await states.find({}, {"name":1, "capital":1, "region":1, "population":1, "description":1, "no_of_lgas":1, "local_gov_areas":1,  "_id":0 });
+        const all_states = await states.find({}, {"no_of_lgas":0, "capital":0, "region":0, "population":0, "description":0, "__v":0, "_id":0});
         return res.status(200).json({all_states})
     }
     catch(err){

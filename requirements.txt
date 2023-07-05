@@ -45,6 +45,3 @@ Locale Requirements:
 - email: string
 - api_key: string
 - created_at
-
-
-please create an array of json objects containing information about regions in Nigeria, the json objects should contain the following keys: name, states, description, description
