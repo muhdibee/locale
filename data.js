@@ -1765,6 +1765,54 @@ const local_govt_area_data = [{
   "postal_code": 400117,
   "population": 172835,
   "description": "Uzo-Uwani is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Abaji",
+  "state": "FCT",
+  "region": "North Central",
+  "postal_code": 905101,
+  "population": 93122,
+  "description": "Abaji is a local government area in the Federal Capital Territory, Nigeria."
+},
+{
+  "name": "Bwari",
+  "state": "FCT",
+  "region": "North Central",
+  "postal_code": 905102,
+  "population": 190301,
+  "description": "Bwari is a local government area in the Federal Capital Territory, Nigeria."
+},
+{
+  "name": "Gwagwalada",
+  "state": "FCT",
+  "region": "North Central",
+  "postal_code": 905103,
+  "population": 259449,
+  "description": "Gwagwalada is a local government area in the Federal Capital Territory, Nigeria."
+},
+{
+  "name": "Kuje",
+  "state": "FCT",
+  "region": "North Central",
+  "postal_code": 905104,
+  "population": 164699,
+  "description": "Kuje is a local government area in the Federal Capital Territory, Nigeria."
+},
+{
+  "name": "Kwali",
+  "state": "FCT",
+  "region": "North Central",
+  "postal_code": 905105,
+  "population": 114301,
+  "description": "Kwali is a local government area in the Federal Capital Territory, Nigeria."
+},
+{
+  "name": "Municipal Area Council",
+  "state": "FCT",
+  "region": "North Central",
+  "postal_code": 905106,
+  "population": 1179057,
+  "description": "Municipal Area Council is a local government area in the Federal Capital Territory, Nigeria."
 }
 ]
 
