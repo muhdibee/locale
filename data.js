@@ -1901,7 +1901,431 @@ const local_govt_area_data = [{
   "postal_code": 760111,
   "population": 175829,
   "description": "Yamaltu/Deba is a local government area in Gombe State, Nigeria."
-}
+},
+{
+  "name": "Aboh-Mbaise",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460101,
+  "population": 153709,
+  "description": "Aboh-Mbaise is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ahiazu-Mbaise",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460102,
+  "population": 148825,
+  "description": "Ahiazu-Mbaise is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ehime-Mbano",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460103,
+  "population": 141319,
+  "description": "Ehime-Mbano is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ezinihitte",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460104,
+  "population": 135697,
+  "description": "Ezinihitte is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ideato North",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460105,
+  "population": 139601,
+  "description": "Ideato North is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ideato South",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460106,
+  "population": 144208,
+  "description": "Ideato South is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ihitte/Uboma",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460107,
+  "population": 124741,
+  "description": "Ihitte/Uboma is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ikeduru",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460108,
+  "population": 129945,
+  "description": "Ikeduru is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Isiala Mbano",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460109,
+  "population": 120558,
+  "description": "Isiala Mbano is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Isu",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460110,
+  "population": 132903,
+  "description": "Isu is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Mbaitoli",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460111,
+  "population": 138419,
+  "description": "Mbaitoli is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ngor Okpala",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460112,
+  "population": 137627,
+  "description": "Ngor Okpala is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Njaba",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460113,
+  "population": 130872,
+  "description": "Njaba is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Nkwerre",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460114,
+  "population": 126538,
+  "description": "Nkwerre is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Nwangele",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460115,
+  "population": 115682,
+  "description": "Nwangele is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Obowo",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460116,
+  "population": 110908,
+  "description": "Obowo is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Oguta",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460117,
+  "population": 122509,
+  "description": "Oguta is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Ohaji/Egbema",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460118,
+  "population": 139829,
+  "description": "Ohaji/Egbema is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Okigwe",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460119,
+  "population": 159919,
+  "description": "Okigwe is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Orlu",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460120,
+  "population": 198532,
+  "description": "Orlu is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Orsu",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460121,
+  "population": 150250,
+  "description": "Orsu is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Oru East",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460122,
+  "population": 106577,
+  "description": "Oru East is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Oru West",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460123,
+  "population": 111303,
+  "description": "Oru West is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Owerri Municipal",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460124,
+  "population": 225270,
+  "description": "Owerri Municipal is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Owerri North",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460125,
+  "population": 155132,
+  "description": "Owerri North is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Owerri West",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460126,
+  "population": 180464,
+  "description": "Owerri West is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Unuimo",
+  "state": "Imo",
+  "region": "South East",
+  "postal_code": 460127,
+  "population": 98674,
+  "description": "Unuimo is a local government area in Imo State, Nigeria."
+},
+{
+  "name": "Auyo",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720101,
+  "population": 167118,
+  "description": "Auyo is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Babura",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720102,
+  "population": 119084,
+  "description": "Babura is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Biriniwa",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720103,
+  "population": 128727,
+  "description": "Biriniwa is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Birnin Kudu",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720104,
+  "population": 195028,
+  "description": "Birnin Kudu is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Buji",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720105,
+  "population": 182930,
+  "description": "Buji is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Dutse",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720106,
+  "population": 183889,
+  "description": "Dutse is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Gagarawa",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720107,
+  "population": 132917,
+  "description": "Gagarawa is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Garki",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720108,
+  "population": 160335,
+  "description": "Garki is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Gumel",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720109,
+  "population": 206804,
+  "description": "Gumel is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Guri",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720110,
+  "population": 141692,
+  "description": "Guri is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Gwaram",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720111,
+  "population": 188972,
+  "description": "Gwaram is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Gwiwa",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720112,
+  "population": 121840,
+  "description": "Gwiwa is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Hadejia",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720113,
+  "population": 311176,
+  "description": "Hadejia is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Jahun",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720114,
+  "population": 238582,
+  "description": "Jahun is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Kafin Hausa",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720115,
+  "population": 176329,
+  "description": "Kafin Hausa is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Kazaure",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720116,
+  "population": 284571,
+  "description": "Kazaure is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Kiri Kasama",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720117,
+  "population": 111938,
+  "description": "Kiri Kasama is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Kiyawa",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720118,
+  "population": 177486,
+  "description": "Kiyawa is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Maigatari",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720119,
+  "population": 169760,
+  "description": "Maigatari is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Malam Madori",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720120,
+  "population": 197761,
+  "description": "Malam Madori is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Miga",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720121,
+  "population": 133225,
+  "description": "Miga is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Ringim",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720122,
+  "population": 289667,
+  "description": "Ringim is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Roni",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720123,
+  "population": 129988,
+  "description": "Roni is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Sule Tankarkar",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720124,
+  "population": 180371,
+  "description": "Sule Tankarkar is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Taura",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720125,
+  "population": 212844,
+  "description": "Taura is a local government area in Jigawa State, Nigeria."
+},
+{
+  "name": "Yankwashi",
+  "state": "Jigawa",
+  "region": "North West",
+  "postal_code": 720126,
+  "population": 157747,
+  "description": "Yankwashi is a local government area in Jigawa State, Nigeria."
+},
 ]
 
 const regions_data = [
