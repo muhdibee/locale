@@ -1813,6 +1813,94 @@ const local_govt_area_data = [{
   "postal_code": 905106,
   "population": 1179057,
   "description": "Municipal Area Council is a local government area in the Federal Capital Territory, Nigeria."
+},
+{
+  "name": "Akko",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760101,
+  "population": 214378,
+  "description": "Akko is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Balanga",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760102,
+  "population": 155692,
+  "description": "Balanga is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Billiri",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760103,
+  "population": 186912,
+  "description": "Billiri is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Dukku",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760104,
+  "population": 121547,
+  "description": "Dukku is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Funakaye",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760105,
+  "population": 105423,
+  "description": "Funakaye is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Gombe",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760106,
+  "population": 242353,
+  "description": "Gombe is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Kaltungo",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760107,
+  "population": 153294,
+  "description": "Kaltungo is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Kwami",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760108,
+  "population": 130561,
+  "description": "Kwami is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Nafada",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760109,
+  "population": 115379,
+  "description": "Nafada is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Shongom",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760110,
+  "population": 98751,
+  "description": "Shongom is a local government area in Gombe State, Nigeria."
+},
+{
+  "name": "Yamaltu/Deba",
+  "state": "Gombe",
+  "region": "North East",
+  "postal_code": 760111,
+  "population": 175829,
+  "description": "Yamaltu/Deba is a local government area in Gombe State, Nigeria."
 }
 ]
 
