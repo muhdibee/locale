@@ -26,7 +26,10 @@ app.use(cors());
 
 // Route Middleware
 app.use("/api/users", users_router);
-app.use("/api/nigeria/states", states_router)
+app.use("/api/nigeria/regions", states_router);
+app.use("/api/nigeria/states", states_router);
+app.use("/api/nigeria/local_government_areas", states_router);
+
 
 
 // Base route

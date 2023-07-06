@@ -866,7 +866,7 @@ const local_govt_area_data = [{
   name: "Magumeri",
   state: "Borno",
   region: "North East",
-  postal_code: "600020",
+  postal_code: 600020,
   population: 89161,
   description: "Magumeri is a local government area in Borno State, Nigeria."
 },
@@ -874,7 +874,7 @@ const local_govt_area_data = [{
   name: "Maiduguri",
   state: "Borno",
   region: "North East",
-  postal_code: "600021",
+  postal_code: 600021,
   population: 1442697,
   description: "Maiduguri is a local government area in Borno State, Nigeria."
 },
@@ -882,7 +882,7 @@ const local_govt_area_data = [{
   name: "Marte",
   state: "Borno",
   region: "North East",
-  postal_code: "600022",
+  postal_code: 600022,
   population: 102419,
   description: "Marte is a local government area in Borno State, Nigeria."
 },
@@ -898,7 +898,7 @@ const local_govt_area_data = [{
   name: "Monguno",
   state: "Borno",
   region: "North East",
-  postal_code: "600024",
+  postal_code: 600024,
   population: 116255,
   description: "Monguno is a local government area in Borno State, Nigeria."
 },
@@ -906,7 +906,7 @@ const local_govt_area_data = [{
   name: "Ngala",
   state: "Borno",
   region: "North East",
-  postal_code: "600025",
+  postal_code: 600025,
   population: 126387,
   description: "Ngala is a local government area in Borno State, Nigeria."
 },
@@ -914,17 +914,17 @@ const local_govt_area_data = [{
   name: "Nganzai",
   state: "Borno",
   region: "North East",
-  postal_code: "600026",
+  postal_code: 600026,
   population: 90055,
   description: "Nganzai is a local government area in Borno State, Nigeria."
 },
 {
-  name: "Shani",
-  state: "Borno",
-  region: "North East",
-  postal_code: "600027",
-  population: 118439,
-  description: "Shani is a local government area in Borno State, Nigeria."
+  "name": "Shani",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 600027,
+  "population": 118439,
+  "description": "Shani is a local government area in Borno State, Nigeria."
 },
 {
   "name": "Akpabuyo",
@@ -1055,6 +1055,206 @@ const local_govt_area_data = [{
   "description": "Yala is a local government area in Cross River State, Nigeria."
 },
 {
+  "name": "Aniocha North",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320101",
+  "population": 169241,
+  "description": "Aniocha North is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Aniocha South",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320102",
+  "population": 144137,
+  "description": "Aniocha South is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Bomadi",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320103",
+  "population": 134247,
+  "description": "Bomadi is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Burutu",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320104",
+  "population": 184225,
+  "description": "Burutu is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ethiope East",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320105",
+  "population": 199187,
+  "description": "Ethiope East is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ethiope West",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320106",
+  "population": 170816,
+  "description": "Ethiope West is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ika North East",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320107",
+  "population": 157269,
+  "description": "Ika North East is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ika South",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320108",
+  "population": 146218,
+  "description": "Ika South is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Isoko North",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320109",
+  "population": 188342,
+  "description": "Isoko North is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Isoko South",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320110",
+  "population": 173811,
+  "description": "Isoko South is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ndokwa East",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320111",
+  "population": 141892,
+  "description": "Ndokwa East is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ndokwa West",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320112",
+  "population": 156309,
+  "description": "Ndokwa West is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Okpe",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320113",
+  "population": 193872,
+  "description": "Okpe is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Oshimili North",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320114",
+  "population": 166378,
+  "description": "Oshimili North is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Oshimili South",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320115",
+  "population": 158217,
+  "description": "Oshimili South is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Patani",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320116",
+  "population": 135910,
+  "description": "Patani is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Sapele",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320117",
+  "population": 218191,
+  "description": "Sapele is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Udu",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320118",
+  "population": 182897,
+  "description": "Udu is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ughelli North",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320119",
+  "population": 209477,
+  "description": "Ughelli North is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ughelli South",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320120",
+  "population": 192341,
+  "description": "Ughelli South is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Ukwuani",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320121",
+  "population": 167493,
+  "description": "Ukwuani is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Uvwie",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320122",
+  "population": 289522,
+  "description": "Uvwie is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Warri North",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320123",
+  "population": 176831,
+  "description": "Warri North is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Warri South",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320124",
+  "population": 204759,
+  "description": "Warri South is a local government area in Delta State, Nigeria."
+},
+{
+  "name": "Warri South West",
+  "state": "Delta",
+  "region": "South South",
+  "postal_code": "320125",
+  "population": 192502,
+  "description": "Warri South West is a local government area in Delta State, Nigeria."
+},
+{
   "name": "Abakaliki",
   "state": "Ebonyi",
   "region": "South East",
@@ -1157,7 +1357,7 @@ const local_govt_area_data = [{
   "postal_code": "480013",
   "population": 100743,
   "description": "Onicha is a local government area in Ebonyi State, Nigeria."
-}
+},
 ]
 
 const regions_data = [
