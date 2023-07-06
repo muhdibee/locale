@@ -1358,6 +1358,414 @@ const local_govt_area_data = [{
   "population": 100743,
   "description": "Onicha is a local government area in Ebonyi State, Nigeria."
 },
+{
+  "name": "Akoko-Edo",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310101,
+  "population": 201020,
+  "description": "Akoko-Edo is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Egor",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310102,
+  "population": 296198,
+  "description": "Egor is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Esan Central",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310103,
+  "population": 144338,
+  "description": "Esan Central is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Esan North-East",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310104,
+  "population": 135826,
+  "description": "Esan North-East is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Esan South-East",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310105,
+  "population": 156487,
+  "description": "Esan South-East is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Esan West",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310106,
+  "population": 168324,
+  "description": "Esan West is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Etsako Central",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310107,
+  "population": 162305,
+  "description": "Etsako Central is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Etsako East",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310108,
+  "population": 175213,
+  "description": "Etsako East is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Etsako West",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310109,
+  "population": 223445,
+  "description": "Etsako West is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Igueben",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310110,
+  "population": 91546,
+  "description": "Igueben is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Ikpoba-Okha",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310111,
+  "population": 281393,
+  "description": "Ikpoba-Okha is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Oredo",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310112,
+  "population": 365216,
+  "description": "Oredo is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Orhionmwon",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310113,
+  "population": 180541,
+  "description": "Orhionmwon is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Ovia North-East",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310114,
+  "population": 145270,
+  "description": "Ovia North-East is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Ovia South-West",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310115,
+  "population": 189587,
+  "description": "Ovia South-West is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Owan East",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310116,
+  "population": 117756,
+  "description": "Owan East is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Owan West",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310117,
+  "population": 165761,
+  "description": "Owan West is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Uhunmwonde",
+  "state": "Edo",
+  "region": "South South",
+  "postal_code": 310118,
+  "population": 142201,
+  "description": "Uhunmwonde is a local government area in Edo State, Nigeria."
+},
+{
+  "name": "Ado-Ekiti",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360001,
+  "population": 446749,
+  "description": "Ado-Ekiti is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Efon",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360002,
+  "population": 83109,
+  "description": "Efon is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ekiti East",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360003,
+  "population": 122215,
+  "description": "Ekiti East is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ekiti South-West",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360004,
+  "population": 165802,
+  "description": "Ekiti South-West is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ekiti West",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360005,
+  "population": 219616,
+  "description": "Ekiti West is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Emure",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360006,
+  "population": 89081,
+  "description": "Emure is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Gbonyin",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360007,
+  "population": 74029,
+  "description": "Gbonyin is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ido-Osi",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360008,
+  "population": 98348,
+  "description": "Ido-Osi is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ijero",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360009,
+  "population": 182865,
+  "description": "Ijero is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ikere",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360010,
+  "population": 157494,
+  "description": "Ikere is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ikole",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360011,
+  "population": 154242,
+  "description": "Ikole is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ilejemeje",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360012,
+  "population": 50475,
+  "description": "Ilejemeje is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Irepodun/Ifelodun",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360013,
+  "population": 123203,
+  "description": "Irepodun/Ifelodun is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Ise/Orun",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360014,
+  "population": 74248,
+  "description": "Ise/Orun is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Moba",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360015,
+  "population": 81193,
+  "description": "Moba is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Oye",
+  "state": "Ekiti",
+  "region": "South West",
+  "postal_code": 360016,
+  "population": 167321,
+  "description": "Oye is a local government area in Ekiti State, Nigeria."
+},
+{
+  "name": "Aninri",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400101,
+  "population": 94235,
+  "description": "Aninri is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Awgu",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400102,
+  "population": 179109,
+  "description": "Awgu is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Enugu East",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400103,
+  "population": 234874,
+  "description": "Enugu East is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Enugu North",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400104,
+  "population": 307826,
+  "description": "Enugu North is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Enugu South",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400105,
+  "population": 282592,
+  "description": "Enugu South is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Ezeagu",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400106,
+  "population": 153179,
+  "description": "Ezeagu is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Igbo Etiti",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400107,
+  "population": 160207,
+  "description": "Igbo Etiti is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Igbo Eze North",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400108,
+  "population": 123245,
+  "description": "Igbo Eze North is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Igbo Eze South",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400109,
+  "population": 93791,
+  "description": "Igbo Eze South is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Isi Uzo",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400110,
+  "population": 145882,
+  "description": "Isi Uzo is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Nkanu East",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400111,
+  "population": 187413,
+  "description": "Nkanu East is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Nkanu West",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400112,
+  "population": 197245,
+  "description": "Nkanu West is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Nsukka",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400113,
+  "population": 309626,
+  "description": "Nsukka is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Oji River",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400114,
+  "population": 138957,
+  "description": "Oji River is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Udenu",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400115,
+  "population": 112276,
+  "description": "Udenu is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Udi",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400116,
+  "population": 197603,
+  "description": "Udi is a local government area in Enugu State, Nigeria."
+},
+{
+  "name": "Uzo-Uwani",
+  "state": "Enugu",
+  "region": "South East",
+  "postal_code": 400117,
+  "population": 172835,
+  "description": "Uzo-Uwani is a local government area in Enugu State, Nigeria."
+}
 ]
 
 const regions_data = [
