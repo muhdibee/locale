@@ -2271,61 +2271,61 @@ const local_govt_area_data = [{
   "description": "Maigatari is a local government area in Jigawa State, Nigeria."
 },
 {
-  "name": "Malam Madori",
-  "state": "Jigawa",
-  "region": "North West",
-  "postal_code": 720120,
-  "population": 197761,
-  "description": "Malam Madori is a local government area in Jigawa State, Nigeria."
-},
-{
-  "name": "Miga",
-  "state": "Jigawa",
-  "region": "North West",
-  "postal_code": 720121,
-  "population": 133225,
-  "description": "Miga is a local government area in Jigawa State, Nigeria."
-},
-{
-  "name": "Ringim",
-  "state": "Jigawa",
-  "region": "North West",
-  "postal_code": 720122,
-  "population": 289667,
-  "description": "Ringim is a local government area in Jigawa State, Nigeria."
-},
-{
-  "name": "Roni",
-  "state": "Jigawa",
-  "region": "North West",
-  "postal_code": 720123,
-  "population": 129988,
-  "description": "Roni is a local government area in Jigawa State, Nigeria."
-},
-{
-  "name": "Sule Tankarkar",
-  "state": "Jigawa",
-  "region": "North West",
-  "postal_code": 720124,
-  "population": 180371,
-  "description": "Sule Tankarkar is a local government area in Jigawa State, Nigeria."
-},
-{
-  "name": "Taura",
-  "state": "Jigawa",
-  "region": "North West",
-  "postal_code": 720125,
-  "population": 212844,
-  "description": "Taura is a local government area in Jigawa State, Nigeria."
-},
-{
-  "name": "Yankwashi",
-  "state": "Jigawa",
-  "region": "North West",
-  "postal_code": 720126,
-  "population": 157747,
-  "description": "Yankwashi is a local government area in Jigawa State, Nigeria."
-},
+    "name": "Malam Madori",
+    "state": "Jigawa",
+    "region": "North West",
+    "postal_code": 720120,
+    "population": 197761,
+    "description": "Malam Madori is a local government area in Jigawa State, Nigeria."
+  },
+  {
+    "name": "Miga",
+    "state": "Jigawa",
+    "region": "North West",
+    "postal_code": 720121,
+    "population": 133225,
+    "description": "Miga is a local government area in Jigawa State, Nigeria."
+  },
+  {
+    "name": "Ringim",
+    "state": "Jigawa",
+    "region": "North West",
+    "postal_code": 720122,
+    "population": 289667,
+    "description": "Ringim is a local government area in Jigawa State, Nigeria."
+  },
+  {
+    "name": "Roni",
+    "state": "Jigawa",
+    "region": "North West",
+    "postal_code": 720123,
+    "population": 129988,
+    "description": "Roni is a local government area in Jigawa State, Nigeria."
+  },
+  {
+    "name": "Sule Tankarkar",
+    "state": "Jigawa",
+    "region": "North West",
+    "postal_code": 720124,
+    "population": 180371,
+    "description": "Sule Tankarkar is a local government area in Jigawa State, Nigeria."
+  },
+  {
+    "name": "Taura",
+    "state": "Jigawa",
+    "region": "North West",
+    "postal_code": 720125,
+    "population": 212844,
+    "description": "Taura is a local government area in Jigawa State, Nigeria."
+  },
+  {
+    "name": "Yankwashi",
+    "state": "Jigawa",
+    "region": "North West",
+    "postal_code": 720126,
+    "population": 157747,
+    "description": "Yankwashi is a local government area in Jigawa State, Nigeria."
+  }
 ]
 
 const regions_data = [
