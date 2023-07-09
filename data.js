@@ -3869,6 +3869,206 @@ const local_govt_area_data = [{
     "postal_code": 961013,
     "population": 123912,
     "description": "Wamba is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Agaie",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920101,
+    "population": 125974,
+    "description": "Agaie is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Agwara",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920102,
+    "population": 71069,
+    "description": "Agwara is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Bida",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920103,
+    "population": 353537,
+    "description": "Bida is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Borgu",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920104,
+    "population": 171141,
+    "description": "Borgu is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Bosso",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920105,
+    "population": 349276,
+    "description": "Bosso is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Chanchaga",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920106,
+    "population": 639278,
+    "description": "Chanchaga is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Edati",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920107,
+    "population": 67854,
+    "description": "Edati is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Gbako",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920108,
+    "population": 119220,
+    "description": "Gbako is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Gurara",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920109,
+    "population": 201706,
+    "description": "Gurara is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Katcha",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920110,
+    "population": 129344,
+    "description": "Katcha is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Kontagora",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920111,
+    "population": 375746,
+    "description": "Kontagora is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Lapai",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920112,
+    "population": 308161,
+    "description": "Lapai is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Lavun",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920113,
+    "population": 191070,
+    "description": "Lavun is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Magama",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920114,
+    "population": 127452,
+    "description": "Magama is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Mariga",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920115,
+    "population": 158079,
+    "description": "Mariga is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Mashegu",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920116,
+    "population": 111772,
+    "description": "Mashegu is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Mokwa",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920117,
+    "population": 207691,
+    "description": "Mokwa is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Munya",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920118,
+    "population": 192325,
+    "description": "Munya is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Paikoro",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920119,
+    "population": 252197,
+    "description": "Paikoro is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Rafi",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920120,
+    "population": 218449,
+    "description": "Rafi is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Rijau",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920121,
+    "population": 148992,
+    "description": "Rijau is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Shiroro",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920122,
+    "population": 282482,
+    "description": "Shiroro is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Suleja",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920123,
+    "population": 285456,
+    "description": "Suleja is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Tafa",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920123,
+    "population": 135692,
+    "description": "Tafa is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Wushishi",
+    "state": "Niger",
+    "region": "North Central",
+    "postal_code": 920124,
+    "population": 186784,
+    "description": "Wushishi is a local government area in Niger State, Nigeria."
   }
 
 ]
