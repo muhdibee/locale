@@ -3765,6 +3765,110 @@ const local_govt_area_data = [{
     "postal_code": 100020,
     "population": 503975,
     "description": "Surulere is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Akwanga",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961001,
+    "population": 199532,
+    "description": "Akwanga is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Awe",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961002,
+    "population": 147239,
+    "description": "Awe is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Doma",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961003,
+    "population": 210889,
+    "description": "Doma is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Karu",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961004,
+    "population": 292976,
+    "description": "Karu is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Keana",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961005,
+    "population": 176189,
+    "description": "Keana is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Keffi",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961006,
+    "population": 265283,
+    "description": "Keffi is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Kokona",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961007,
+    "population": 204233,
+    "description": "Kokona is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Lafia",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961008,
+    "population": 330712,
+    "description": "Lafia is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Nasarawa",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961009,
+    "population": 241837,
+    "description": "Nasarawa is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Nasarawa Egon",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961010,
+    "population": 180868,
+    "description": "Nasarawa Egon is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Obi",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961011,
+    "population": 202705,
+    "description": "Obi is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Toto",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961012,
+    "population": 181723,
+    "description": "Toto is a local government area in Nasarawa State, Nigeria."
+  },
+  {
+    "name": "Wamba",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "postal_code": 961013,
+    "population": 123912,
+    "description": "Wamba is a local government area in Nasarawa State, Nigeria."
   }
 
 ]
