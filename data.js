@@ -3606,7 +3606,167 @@ const local_govt_area_data = [{
     "population": 105082,
     "description": "Pategi is a local government area in Kwara State, Nigeria."
   },
-  
+  {
+    "name": "Agege",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100001,
+    "population": 461123,
+    "description": "Agege is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Ajeromi-Ifelodun",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100002,
+    "population": 684105,
+    "description": "Ajeromi-Ifelodun is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Alimosho",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100003,
+    "population": 1686215,
+    "description": "Alimosho is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Amuwo-Odofin",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100004,
+    "population": 317513,
+    "description": "Amuwo-Odofin is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Apapa",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100005,
+    "population": 217661,
+    "description": "Apapa is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Badagry",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100006,
+    "population": 241437,
+    "description": "Badagry is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Epe",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100007,
+    "population": 181715,
+    "description": "Epe is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Eti-Osa",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100008,
+    "population": 287785,
+    "description": "Eti-Osa is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Ibeju-Lekki",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100009,
+    "population": 117481,
+    "description": "Ibeju-Lekki is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Ifako-Ijaiye",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100010,
+    "population": 427878,
+    "description": "Ifako-Ijaiye is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Ikeja",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100011,
+    "population": 313333,
+    "description": "Ikeja is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Ikorodu",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100012,
+    "population": 535619,
+    "description": "Ikorodu is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Kosofe",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100013,
+    "population": 665393,
+    "description": "Kosofe is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Lagos Island",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100014,
+    "population": 212700,
+    "description": "Lagos Island is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Lagos Mainland",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100015,
+    "population": 317980,
+    "description": "Lagos Mainland is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Mushin",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100016,
+    "population": 633543,
+    "description": "Mushin is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Ojo",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100017,
+    "population": 507123,
+    "description": "Ojo is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Oshodi-Isolo",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100018,
+    "population": 621509,
+    "description": "Oshodi-Isolo is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Shomolu",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100019,
+    "population": 402673,
+    "description": "Shomolu is a local government area in Lagos State, Nigeria."
+  },
+  {
+    "name": "Surulere",
+    "state": "Lagos",
+    "region": "South West",
+    "postal_code": 100020,
+    "population": 503975,
+    "description": "Surulere is a local government area in Lagos State, Nigeria."
+  }
+
 ]
 
 const regions_data = [
