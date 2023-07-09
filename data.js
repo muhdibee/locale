@@ -4373,6 +4373,502 @@ const local_govt_area_data = [{
     "postal_code": 340118,
     "population": 278792,
     "description": "Owo is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Atakunmosa East",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230101,
+    "population": 116392,
+    "description": "Atakunmosa East is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Atakunmosa West",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230102,
+    "population": 105418,
+    "description": "Atakunmosa West is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Aiyedaade",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230103,
+    "population": 159932,
+    "description": "Aiyedaade is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Aiyedire",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230104,
+    "population": 87765,
+    "description": "Aiyedire is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Boluwaduro",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230105,
+    "population": 73789,
+    "description": "Boluwaduro is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Boripe",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230106,
+    "population": 159617,
+    "description": "Boripe is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ede North",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230107,
+    "population": 110987,
+    "description": "Ede North is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ede South",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230108,
+    "population": 156382,
+    "description": "Ede South is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ife Central",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230109,
+    "population": 131506,
+    "description": "Ife Central is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ife East",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230110,
+    "population": 131989,
+    "description": "Ife East is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ife North",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230111,
+    "population": 132446,
+    "description": "Ife North is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ife South",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230112,
+    "population": 136077,
+    "description": "Ife South is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Egbedore",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230113,
+    "population": 91587,
+    "description": "Egbedore is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ejigbo",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230114,
+    "population": 132022,
+    "description": "Ejigbo is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ifedayo",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230115,
+    "population": 64360,
+    "description": "Ifedayo is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ifelodun",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230116,
+    "population": 159192,
+    "description": "Ifelodun is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ilesa East",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230117,
+    "population": 148263,
+    "description": "Ilesa East is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ilesa West",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230118,
+    "population": 151280,
+    "description": "Ilesa West is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Irepodun",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230119,
+    "population": 110958,
+    "description": "Irepodun is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Irewole",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230120,
+    "population": 114805,
+    "description": "Irewole is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Isokan",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230121,
+    "population": 82992,
+    "description": "Isokan is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Iwo",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230122,
+    "population": 187260,
+    "description": "Iwo is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Obokun",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230123,
+    "population": 136024,
+    "description": "Obokun is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Odo Otin",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230124,
+    "population": 159042,
+    "description": "Odo Otin is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Ola Oluwa",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230125,
+    "population": 102225,
+    "description": "Ola Oluwa is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Olorunda",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230126,
+    "population": 234274,
+    "description": "Olorunda is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Oriade",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230127,
+    "population": 143317,
+    "description": "Oriade is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Orolu",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230128,
+    "population": 115398,
+    "description": "Orolu is a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Osogbo",
+    "state": "Osun",
+    "region": "South West",
+    "postal_code": 230129,
+    "population": 449756,
+    "description": "Osogbo is the capital city and a local government area in Osun State, Nigeria."
+  },
+  {
+    "name": "Afijio",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200101,
+    "population": 136917,
+    "description": "Afijio is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Akinyele",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200102,
+    "population": 182955,
+    "description": "Akinyele is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Atiba",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200103,
+    "population": 153331,
+    "description": "Atiba is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Atisbo",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200104,
+    "population": 110019,
+    "description": "Atisbo is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Egbeda",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200105,
+    "population": 245753,
+    "description": "Egbeda is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ibadan North",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200106,
+    "population": 237591,
+    "description": "Ibadan North is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ibadan North East",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200107,
+    "population": 237657,
+    "description": "Ibadan North East is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ibadan North West",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200108,
+    "population": 208675,
+    "description": "Ibadan North West is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ibadan South East",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200109,
+    "population": 267535,
+    "description": "Ibadan South East is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ibadan South West",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200110,
+    "population": 299659,
+    "description": "Ibadan South West is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ibarapa Central",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200111,
+    "population": 112390,
+    "description": "Ibarapa Central is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ibarapa East",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200112,
+    "population": 119067,
+    "description": "Ibarapa East is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ibarapa North",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200113,
+    "population": 155837,
+    "description": "Ibarapa North is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ido",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200114,
+    "population": 170348,
+    "description": "Ido is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Irepo",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200115,
+    "population": 102969,
+    "description": "Irepo is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Iseyin",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200116,
+    "population": 230722,
+    "description": "Iseyin is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Itesiwaju",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200117,
+    "population": 85792,
+    "description": "Itesiwaju is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Iwajowa",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200118,
+    "population": 130098,
+    "description": "Iwajowa is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Kajola",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200119,
+    "population": 114006,
+    "description": "Kajola is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Lagelu",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200120,
+    "population": 128744,
+    "description": "Lagelu is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ogbomosho North",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200121,
+    "population": 207566,
+    "description": "Ogbomosho North is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ogbomosho South",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200123,
+    "population": 262983,
+    "description": "Ogbomosho South is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ogo Oluwa",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200124,
+    "population": 101371,
+    "description": "Ogo Oluwa is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Olorunsogo",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200125,
+    "population": 114687,
+    "description": "Olorunsogo is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Oluyole",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200126,
+    "population": 222184,
+    "description": "Oluyole is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ona Ara",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200127,
+    "population": 172826,
+    "description": "Ona Ara is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Orelope",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200128,
+    "population": 115139,
+    "description": "Orelope is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Ori Ire",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200129,
+    "population": 98162,
+    "description": "Ori Ire is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Oyo East",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200130,
+    "population": 212669,
+    "description": "Oyo East is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Oyo West",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200131,
+    "population": 192912,
+    "description": "Oyo West is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Saki East",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200132,
+    "population": 154953,
+    "description": "Saki East is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Saki West",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200133,
+    "population": 170184,
+    "description": "Saki West is a local government area in Oyo State, Nigeria."
+  },
+  {
+    "name": "Surulere",
+    "state": "Oyo",
+    "region": "South West",
+    "postal_code": 200134,
+    "population": 142070,
+    "description": "Surulere is a local government area in Oyo State, Nigeria."
   }
 
 ]
