@@ -2509,7 +2509,368 @@ const local_govt_area_data = [{
     "postal_code": 800123,
     "population": 408198,
     "description": "Zaria is a local government area in Kaduna State, Nigeria."
-  }
+  },
+  {
+    "name": "Ajingi",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700101,
+    "population": 194152,
+    "description": "Ajingi is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Albasu",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700102,
+    "population": 167746,
+    "description": "Albasu is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Bagwai",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700103,
+    "population": 134416,
+    "description": "Bagwai is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Bebeji",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700104,
+    "population": 163327,
+    "description": "Bebeji is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Bichi",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700105,
+    "population": 245102,
+    "description": "Bichi is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Bunkure",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700106,
+    "population": 110890,
+    "description": "Bunkure is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Dala",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700107,
+    "population": 454435,
+    "description": "Dala is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Dambatta",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700108,
+    "population": 187475,
+    "description": "Dambatta is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Dawakin Kudu",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700109,
+    "population": 187996,
+    "description": "Dawakin Kudu is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Dawakin Tofa",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700110,
+    "population": 187174,
+    "description": "Dawakin Tofa is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Doguwa",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700111,
+    "population": 174775,
+    "description": "Doguwa is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Fagge",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700112,
+    "population": 401791,
+    "description": "Fagge is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Gabasawa",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700113,
+    "population": 151801,
+    "description": "Gabasawa is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Garko",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700114,
+    "population": 135189,
+    "description": "Garko is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Garun Mallam",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700115,
+    "population": 134872,
+    "description": "Garun Mallam is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Gaya",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700116,
+    "population": 209992,
+    "description": "Gaya is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Gezawa",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700117,
+    "population": 235171,
+    "description": "Gezawa is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Gwale",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700118,
+    "population": 256763,
+    "description": "Gwale is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Gwarzo",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700119,
+    "population": 161891,
+    "description": "Gwarzo is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Kabo",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700120,
+    "population": 130825,
+    "description": "Kabo is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Kano Municipal",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700121,
+    "population": 3157130,
+    "description": "Kano Municipal is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Karaye",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 700122,
+    "population": 285328,
+    "description": "Karaye is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Karaye",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701101,
+    "population": 169956,
+    "description": "Karaye is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Kibiya",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701102,
+    "population": 119154,
+    "description": "Kibiya is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Kiru",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701103,
+    "population": 172667,
+    "description": "Kiru is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Kumbotso",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701104,
+    "population": 428641,
+    "description": "Kumbotso is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Kunchi",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701105,
+    "population": 108578,
+    "description": "Kunchi is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Kura",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701106,
+    "population": 132221,
+    "description": "Kura is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Madobi",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701107,
+    "population": 146861,
+    "description": "Madobi is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Makoda",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701108,
+    "population": 110432,
+    "description": "Makoda is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Minjibir",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701109,
+    "population": 108480,
+    "description": "Minjibir is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Nasarawa",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701110,
+    "population": 186253,
+    "description": "Nasarawa is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Rano",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701111,
+    "population": 134727,
+    "description": "Rano is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Rimin Gado",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701112,
+    "population": 136355,
+    "description": "Rimin Gado is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Rogo",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701113,
+    "population": 114583,
+    "description": "Rogo is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Shanono",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701114,
+    "population": 129618,
+    "description": "Shanono is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Sumaila",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701115,
+    "population": 109202,
+    "description": "Sumaila is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Takai",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701116,
+    "population": 118076,
+    "description": "Takai is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Tarauni",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701117,
+    "population": 326526,
+    "description": "Tarauni is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Tofa",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701118,
+    "population": 159166,
+    "description": "Tofa is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Tsanyawa",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701119,
+    "population": 124076,
+    "description": "Tsanyawa is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Tudun Wada",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701120,
+    "population": 173642,
+    "description": "Tudun Wada is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Ungogo",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701121,
+    "population": 153935,
+    "description": "Ungogo is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Warawa",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701122,
+    "population": 109555,
+    "description": "Warawa is a local government area in Kano State, Nigeria."
+  },
+  {
+    "name": "Wudil",
+    "state": "Kano",
+    "region": "North West",
+    "postal_code": 701123,
+    "population": 167850,
+    "description": "Wudil is a local government area in Kano State, Nigeria."
+  },
+
 ]
 
 const regions_data = [
