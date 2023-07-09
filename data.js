@@ -4069,6 +4069,166 @@ const local_govt_area_data = [{
     "postal_code": 920124,
     "population": 186784,
     "description": "Wushishi is a local government area in Niger State, Nigeria."
+  },
+  {
+    "name": "Abeokuta North",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110101,
+    "population": 251569,
+    "description": "Abeokuta North is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Abeokuta South",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110102,
+    "population": 348918,
+    "description": "Abeokuta South is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ado-Odo/Ota",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110103,
+    "population": 616208,
+    "description": "Ado-Odo/Ota is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ewekoro",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110104,
+    "population": 183102,
+    "description": "Ewekoro is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ifo",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110105,
+    "population": 535815,
+    "description": "Ifo is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ijebu East",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110106,
+    "population": 181944,
+    "description": "Ijebu East is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ijebu North",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110107,
+    "population": 190465,
+    "description": "Ijebu North is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ijebu North East",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110108,
+    "population": 126308,
+    "description": "Ijebu North East is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ijebu Ode",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110109,
+    "population": 169034,
+    "description": "Ijebu Ode is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ikenne",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110110,
+    "population": 145605,
+    "description": "Ikenne is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Imeko Afon",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110111,
+    "population": 139899,
+    "description": "Imeko Afon is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ipokia",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110112,
+    "population": 169654,
+    "description": "Ipokia is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Obafemi Owode",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110113,
+    "population": 197314,
+    "description": "Obafemi Owode is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Odeda",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110114,
+    "population": 144496,
+    "description": "Odeda is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Odogbolu",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110115,
+    "population": 98023,
+    "description": "Odogbolu is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Ogun Waterside",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110116,
+    "population": 125203,
+    "description": "Ogun Waterside is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Remo North",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110117,
+    "population": 174232,
+    "description": "Remo North is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Shagamu",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110118,
+    "population": 380944,
+    "description": "Shagamu is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Yewa North",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110119,
+    "population": 189277,
+    "description": "Yewa North is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Yewa South",
+    "state": "Ogun",
+    "region": "South West",
+    "postal_code": 110120,
+    "population": 142775,
+    "description": "Yewa South is a local government area in Ogun State, Nigeria."
   }
 
 ]

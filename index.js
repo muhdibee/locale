@@ -3,13 +3,20 @@ const express = require("express");
 const logger = require("morgan");
 const cors = require('cors');
 
-// Import local modules
+// MongoDB connections
 const connect_to_database = require("./db_connection");
+
+// Routers
 const users_router = require('./routes/users_route');
 const states_router = require('./routes/states_route');
+const regions_router = require('./routes/states_route');
+
+// Models
 const {states} = require('./models/states_model');
-// const {states_data} = require("./data");
 const {regions} = require('./models/states_model');
+const {regions} = require('./models/states_model');
+
+// const {states_data} = require("./data");
 const {states_data} = require("./data");
 
 
@@ -26,7 +33,7 @@ app.use(cors());
 
 // Route Middleware
 app.use("/api/users", users_router);
-app.use("/api/nigeria/regions", states_router);
+app.use("/api/nigeria/regions", regions_router);
 app.use("/api/nigeria/states", states_router);
 app.use("/api/nigeria/local_government_areas", states_router);
 
