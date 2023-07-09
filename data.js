@@ -3478,7 +3478,135 @@ const local_govt_area_data = [{
     "population": 112358,
     "description": "Yagba West is a local government area in Kogi State, Nigeria."
   },
-
+  {
+    "name": "Asa",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240101,
+    "population": 179086,
+    "description": "Asa is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Baruten",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240102,
+    "population": 157200,
+    "description": "Baruten is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Edu",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240103,
+    "population": 125049,
+    "description": "Edu is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Ekiti",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240104,
+    "population": 125826,
+    "description": "Ekiti is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Ifelodun",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240105,
+    "population": 215475,
+    "description": "Ifelodun is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Ilorin East",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240106,
+    "population": 227611,
+    "description": "Ilorin East is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Ilorin South",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240107,
+    "population": 290608,
+    "description": "Ilorin South is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Ilorin West",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240108,
+    "population": 481176,
+    "description": "Ilorin West is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Irepodun",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240109,
+    "population": 185238,
+    "description": "Irepodun is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Isin",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240110,
+    "population": 85450,
+    "description": "Isin is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Kaiama",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240111,
+    "population": 115561,
+    "description": "Kaiama is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Moro",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240112,
+    "population": 192949,
+    "description": "Moro is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Offa",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240113,
+    "population": 123052,
+    "description": "Offa is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Oke Ero",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240114,
+    "population": 95029,
+    "description": "Oke Ero is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Oyun",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240115,
+    "population": 200708,
+    "description": "Oyun is a local government area in Kwara State, Nigeria."
+  },
+  {
+    "name": "Pategi",
+    "state": "Kwara",
+    "region": "North Central",
+    "postal_code": 240116,
+    "population": 105082,
+    "description": "Pategi is a local government area in Kwara State, Nigeria."
+  },
+  
 ]
 
 const regions_data = [
