@@ -2325,6 +2325,190 @@ const local_govt_area_data = [{
     "postal_code": 720126,
     "population": 157747,
     "description": "Yankwashi is a local government area in Jigawa State, Nigeria."
+  },
+  {
+    "name": "Birnin Gwari",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800101,
+    "population": 186849,
+    "description": "Birnin Gwari is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Chikun",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800102,
+    "population": 279912,
+    "description": "Chikun is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Giwa",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800103,
+    "population": 223638,
+    "description": "Giwa is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Igabi",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800104,
+    "population": 370345,
+    "description": "Igabi is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Ikara",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800105,
+    "population": 234577,
+    "description": "Ikara is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Jaba",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800106,
+    "population": 156201,
+    "description": "Jaba is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Jema'a",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800107,
+    "population": 224454,
+    "description": "Jema'a is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kachia",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800108,
+    "population": 277416,
+    "description": "Kachia is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kaduna North",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800109,
+    "population": 399103,
+    "description": "Kaduna North is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kaduna South",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800110,
+    "population": 298642,
+    "description": "Kaduna South is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kagarko",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800111,
+    "population": 155080,
+    "description": "Kagarko is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kajuru",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800112,
+    "population": 216268,
+    "description": "Kajuru is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kaura",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800113,
+    "population": 143675,
+    "description": "Kaura is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kauru",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800114,
+    "population": 122200,
+    "description": "Kauru is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kubau",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800115,
+    "population": 158667,
+    "description": "Kubau is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Kudan",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800116,
+    "population": 165679,
+    "description": "Kudan is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Lere",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800117,
+    "population": 209526,
+    "description": "Lere is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Makarfi",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800118,
+    "population": 150401,
+    "description": "Makarfi is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Sabon Gari",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800119,
+    "population": 280034,
+    "description": "Sabon Gari is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Sanga",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800120,
+    "population": 189872,
+    "description": "Sanga is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Soba",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800121,
+    "population": 139667,
+    "description": "Soba is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Zangon Kataf",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800122,
+    "population": 257111,
+    "description": "Zangon Kataf is a local government area in Kaduna State, Nigeria."
+  },
+  {
+    "name": "Zaria",
+    "state": "Kaduna",
+    "region": "North West",
+    "postal_code": 800123,
+    "population": 408198,
+    "description": "Zaria is a local government area in Kaduna State, Nigeria."
   }
 ]
 
