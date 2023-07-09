@@ -4229,6 +4229,150 @@ const local_govt_area_data = [{
     "postal_code": 110120,
     "population": 142775,
     "description": "Yewa South is a local government area in Ogun State, Nigeria."
+  },
+  {
+    "name": "Akoko North East",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340101,
+    "population": 215797,
+    "description": "Akoko North East is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Akoko North West",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340102,
+    "population": 196084,
+    "description": "Akoko North West is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Akoko South Akure East",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340103,
+    "population": 257039,
+    "description": "Akoko South Akure East is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Akoko South West",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340104,
+    "population": 184646,
+    "description": "Akoko South West is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Akure North",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340105,
+    "population": 251844,
+    "description": "Akure North is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Akure South",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340106,
+    "population": 367484,
+    "description": "Akure South is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Ese Odo",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340107,
+    "population": 181300,
+    "description": "Ese Odo is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Idanre",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340108,
+    "population": 144236,
+    "description": "Idanre is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Ifedore",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340109,
+    "population": 151233,
+    "description": "Ifedore is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Ilaje",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340110,
+    "population": 191071,
+    "description": "Ilaje is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Ile Oluji/Okeigbo",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340111,
+    "population": 114532,
+    "description": "Ile Oluji/Okeigbo is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Irele",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340112,
+    "population": 139815,
+    "description": "Irele is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Odigbo",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340113,
+    "population": 170982,
+    "description": "Odigbo is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Okitipupa",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340114,
+    "population": 257750,
+    "description": "Okitipupa is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Ondo East",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340115,
+    "population": 147119,
+    "description": "Ondo East is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Ondo West",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340116,
+    "population": 217340,
+    "description": "Ondo West is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Ose",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340117,
+    "population": 167892,
+    "description": "Ose is a local government area in Ondo State, Nigeria."
+  },
+  {
+    "name": "Owo",
+    "state": "Ondo",
+    "region": "South West",
+    "postal_code": 340118,
+    "population": 278792,
+    "description": "Owo is a local government area in Ondo State, Nigeria."
   }
 
 ]
