@@ -3309,7 +3309,175 @@ const local_govt_area_data = [{
     "postal_code": 862121,
     "population": 222408,
     "description": "Zuru is a local government area in Kebbi State, Nigeria."
-  }
+  },
+  {
+    "name": "Adavi",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260101,
+    "population": 238389,
+    "description": "Adavi is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Ajaokuta",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260102,
+    "population": 179003,
+    "description": "Ajaokuta is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Ankpa",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260103,
+    "population": 255267,
+    "description": "Ankpa is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Bassa",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260104,
+    "population": 273039,
+    "description": "Bassa is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Dekina",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260105,
+    "population": 365901,
+    "description": "Dekina is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Ibaji",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260106,
+    "population": 135160,
+    "description": "Ibaji is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Idah",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260107,
+    "population": 248034,
+    "description": "Idah is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Igalamela-Odolu",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260108,
+    "population": 160330,
+    "description": "Igalamela-Odolu is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Ijumu",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260109,
+    "population": 165250,
+    "description": "Ijumu is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Kabba/Bunu",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260110,
+    "population": 238844,
+    "description": "Kabba/Bunu is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Kogi",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260111,
+    "population": 162943,
+    "description": "Kogi is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Lokoja",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260112,
+    "population": 215105,
+    "description": "Lokoja is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Mopa-Muro",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260113,
+    "population": 131661,
+    "description": "Mopa-Muro is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Ofu",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260114,
+    "population": 153911,
+    "description": "Ofu is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Ogori/Magongo",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260115,
+    "population": 114141,
+    "description": "Ogori/Magongo is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Okehi",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260116,
+    "population": 172501,
+    "description": "Okehi is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Okene",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260117,
+    "population": 342249,
+    "description": "Okene is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Olamaboro",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260118,
+    "population": 144183,
+    "description": "Olamaboro is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Omala",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260119,
+    "population": 113068,
+    "description": "Omala is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Yagba East",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260120,
+    "population": 97804,
+    "description": "Yagba East is a local government area in Kogi State, Nigeria."
+  },
+  {
+    "name": "Yagba West",
+    "state": "Kogi",
+    "region": "North Central",
+    "postal_code": 260121,
+    "population": 112358,
+    "description": "Yagba West is a local government area in Kogi State, Nigeria."
+  },
 
 ]
 
