@@ -2870,6 +2870,446 @@ const local_govt_area_data = [{
     "population": 167850,
     "description": "Wudil is a local government area in Kano State, Nigeria."
   },
+   {
+    "name": "Bakori",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820101,
+    "population": 148690,
+    "description": "Bakori is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Batagarawa",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820102,
+    "population": 146947,
+    "description": "Batagarawa is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Batsari",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820103,
+    "population": 286090,
+    "description": "Batsari is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Baure",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820104,
+    "population": 110460,
+    "description": "Baure is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Bindawa",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820105,
+    "population": 121015,
+    "description": "Bindawa is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Charanchi",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820106,
+    "population": 135722,
+    "description": "Charanchi is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Dandume",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820107,
+    "population": 143547,
+    "description": "Dandume is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Danja",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820108,
+    "population": 140618,
+    "description": "Danja is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Dan Musa",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820109,
+    "population": 117882,
+    "description": "Dan Musa is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Daura",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820110,
+    "population": 325257,
+    "description": "Daura is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Dutsi",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820111,
+    "population": 110191,
+    "description": "Dutsi is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Dutsin-Ma",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820112,
+    "population": 157998,
+    "description": "Dutsin-Ma is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Faskari",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820113,
+    "population": 145330,
+    "description": "Faskari is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Funtua",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820114,
+    "population": 274792,
+    "description": "Funtua is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Ingawa",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820115,
+    "population": 151104,
+    "description": "Ingawa is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Jibia",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820116,
+    "population": 180090,
+    "description": "Jibia is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Kafur",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820117,
+    "population": 165090,
+    "description": "Kafur is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Kaita",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820118,
+    "population": 119530,
+    "description": "Kaita is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Kankara",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820119,
+    "population": 219358,
+    "description": "Kankara is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Kankia",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820120,
+    "population": 163518,
+    "description": "Kankia is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Katsina",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820121,
+    "population": 746153,
+    "description": "Katsina is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Kurfi",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820122,
+    "population": 167904,
+    "description": "Kurfi is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Kusada",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820123,
+    "population": 119065,
+    "description": "Kusada is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Mai'Adua",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820124,
+    "population": 139380,
+    "description": "Mai'Adua is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Malumfashi",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820125,
+    "population": 222314,
+    "description": "Malumfashi is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Mani",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820126,
+    "population": 159243,
+    "description": "Mani is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Mashi",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820128,
+    "population": 170376,
+    "description": "Mashi is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Matazu",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820129,
+    "population": 157225,
+    "description": "Matazu is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Musawa",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820130,
+    "population": 130178,
+    "description": "Musawa is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Rimi",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820131,
+    "population": 160635,
+    "description": "Rimi is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Sabuwa",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820132,
+    "population": 127322,
+    "description": "Sabuwa is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Safana",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820133,
+    "population": 180992,
+    "description": "Safana is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Sandamu",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820134,
+    "population": 124128,
+    "description": "Sandamu is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Zango",
+    "state": "Katsina",
+    "region": "North West",
+    "postal_code": 820135,
+    "population": 145415,
+    "description": "Zango is a local government area in Katsina State, Nigeria."
+  },
+  {
+    "name": "Aleiro",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862101,
+    "population": 129806,
+    "description": "Aleiro is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Arewa Dandi",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862102,
+    "population": 116256,
+    "description": "Arewa Dandi is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Argungu",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862103,
+    "population": 193167,
+    "description": "Argungu is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Augie",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862104,
+    "population": 142538,
+    "description": "Augie is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Bagudo",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862105,
+    "population": 190396,
+    "description": "Bagudo is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Birnin Kebbi",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862106,
+    "population": 239743,
+    "description": "Birnin Kebbi is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Bunza",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862107,
+    "population": 107489,
+    "description": "Bunza is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Dandi",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862108,
+    "population": 121578,
+    "description": "Dandi is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Fakai",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862109,
+    "population": 132345,
+    "description": "Fakai is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Gwandu",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862110,
+    "population": 174506,
+    "description": "Gwandu is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Jega",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862111,
+    "population": 206538,
+    "description": "Jega is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Kalgo",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862112,
+    "population": 134465,
+    "description": "Kalgo is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Koko/Besse",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862113,
+    "population": 166270,
+    "description": "Koko/Besse is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Maiyama",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862114,
+    "population": 152615,
+    "description": "Maiyama is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Ngaski",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862115,
+    "population": 155578,
+    "description": "Ngaski is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Sakaba",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862116,
+    "population": 134290,
+    "description": "Sakaba is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Shanga",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862117,
+    "population": 118788,
+    "description": "Shanga is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Suru",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862118,
+    "population": 124886,
+    "description": "Suru is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Wasagu/Danko",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862119,
+    "population": 136928,
+    "description": "Wasagu/Danko is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Yauri",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862120,
+    "population": 198332,
+    "description": "Yauri is a local government area in Kebbi State, Nigeria."
+  },
+  {
+    "name": "Zuru",
+    "state": "Kebbi",
+    "region": "North West",
+    "postal_code": 862121,
+    "population": 222408,
+    "description": "Zuru is a local government area in Kebbi State, Nigeria."
+  }
 
 ]
 
