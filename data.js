@@ -4869,7 +4869,328 @@ const local_govt_area_data = [{
     "postal_code": 200134,
     "population": 142070,
     "description": "Surulere is a local government area in Oyo State, Nigeria."
-  }
+  },
+  {
+    "name": "Barkin Ladi",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930101,
+    "population": 208751,
+    "description": "Barkin Ladi is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Bassa",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930102,
+    "population": 201086,
+    "description": "Bassa is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Bokkos",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930103,
+    "population": 157872,
+    "description": "Bokkos is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Jos East",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930104,
+    "population": 245657,
+    "description": "Jos East is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Jos North",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930105,
+    "population": 299673,
+    "description": "Jos North is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Jos South",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930106,
+    "population": 276984,
+    "description": "Jos South is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Kanam",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930107,
+    "population": 191474,
+    "description": "Kanam is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Kanke",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930108,
+    "population": 205007,
+    "description": "Kanke is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Langtang North",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930109,
+    "population": 187538,
+    "description": "Langtang North is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Langtang South",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930110,
+    "population": 209791,
+    "description": "Langtang South is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Mangu",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930111,
+    "population": 238570,
+    "description": "Mangu is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Mikang",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930112,
+    "population": 168960,
+    "description": "Mikang is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Pankshin",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930113,
+    "population": 169071,
+    "description": "Pankshin is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Qua'an Pan",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930114,
+    "population": 200068,
+    "description": "Qua'an Pan is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Riyom",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930115,
+    "population": 196492,
+    "description": "Riyom is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Shendam",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930116,
+    "population": 222731,
+    "description": "Shendam is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Wase",
+    "state": "Plateau",
+    "region": "North Central",
+    "postal_code": 930117,
+    "population": 167675,
+    "description": "Wase is a local government area in Plateau State, Nigeria."
+  },
+  {
+    "name": "Abua/Odual",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511101,
+    "population": 216260,
+    "description": "Abua/Odual is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Ahoada East",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512101,
+    "population": 163141,
+    "description": "Ahoada East is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Ahoada West",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512102,
+    "population": 198830,
+    "description": "Ahoada West is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Akuku-Toru",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511102,
+    "population": 188930,
+    "description": "Akuku-Toru is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Andoni",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512103,
+    "population": 230651,
+    "description": "Andoni is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Asari-Toru",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511103,
+    "population": 135732,
+    "description": "Asari-Toru is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Bonny",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511104,
+    "population": 215787,
+    "description": "Bonny is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Degema",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511105,
+    "population": 180972,
+    "description": "Degema is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Eleme",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511106,
+    "population": 188146,
+    "description": "Eleme is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Emohua",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512104,
+    "population": 239724,
+    "description": "Emohua is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Etche",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512105,
+    "population": 310125,
+    "description": "Etche is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Gokana",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511107,
+    "population": 198480,
+    "description": "Gokana is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Ikwerre",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512106,
+    "population": 437160,
+    "description": "Ikwerre is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Khana",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511108,
+    "population": 300545,
+    "description": "Khana is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Obio/Akpor",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 500102,
+    "population": 956429,
+    "description": "Obio/Akpor is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Ogba/Egbema/Ndoni",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512107,
+    "population": 303038,
+    "description": "Ogba/Egbema/Ndoni is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Ogu/Bolo",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511109,
+    "population": 201392,
+    "description": "Ogu/Bolo is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Okrika",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511110,
+    "population": 219952,
+    "description": "Okrika is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Omuma",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512108,
+    "population": 168048,
+    "description": "Omuma is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Opobo/Nkoro",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 511111,
+    "population": 157660,
+    "description": "Opobo/Nkoro is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Oyigbo",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 500103,
+    "population": 198888,
+    "description": "Oyigbo is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Port Harcourt",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 500101,
+    "population": 1421952,
+    "description": "Port Harcourt is a local government area in Rivers State, Nigeria."
+  },
+  {
+    "name": "Tai",
+    "state": "Rivers",
+    "region": "South South",
+    "postal_code": 512110,
+    "population": 234710,
+    "description": "Tai is a local government area in Rivers State, Nigeria."
+  },
+  
 
 ]
 
