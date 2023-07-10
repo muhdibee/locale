@@ -5501,6 +5501,254 @@ const local_govt_area_data = [{
     "postal_code": 660116,
     "population": 201135,
     "description": "Zing is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Bade",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630101,
+    "population": 185943,
+    "description": "Bade is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Bursari",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630102,
+    "population": 114358,
+    "description": "Bursari is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Damaturu",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630103,
+    "population": 361339,
+    "description": "Damaturu is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Fika",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630104,
+    "population": 190392,
+    "description": "Fika is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Fune",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630105,
+    "population": 170890,
+    "description": "Fune is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Geidam",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630106,
+    "population": 122623,
+    "description": "Geidam is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Gujba",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630107,
+    "population": 106522,
+    "description": "Gujba is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Gulani",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630108,
+    "population": 93548,
+    "description": "Gulani is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Jakusko",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630109,
+    "population": 98621,
+    "description": "Jakusko is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Karasuwa",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630110,
+    "population": 129527,
+    "description": "Karasuwa is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Machina",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630111,
+    "population": 83744,
+    "description": "Machina is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Nangere",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630112,
+    "population": 123248,
+    "description": "Nangere is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Nguru",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630113,
+    "population": 234683,
+    "description": "Nguru is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Potiskum",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630114,
+    "population": 332838,
+    "description": "Potiskum is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Tarmuwa",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630115,
+    "population": 107782,
+    "description": "Tarmuwa is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Yunusari",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630116,
+    "population": 144683,
+    "description": "Yunusari is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Yusufari",
+    "state": "Yobe",
+    "region": "North East",
+    "postal_code": 630117,
+    "population": 124052,
+    "description": "Yusufari is a local government area in Yobe State, Nigeria."
+  },
+  {
+    "name": "Anka",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880101,
+    "population": 193900,
+    "description": "Anka is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Bakura",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880102,
+    "population": 170876,
+    "description": "Bakura is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Birnin Magaji/Kiyaw",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880103,
+    "population": 158944,
+    "description": "Birnin Magaji/Kiyaw is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Bukkuyum",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880104,
+    "population": 135066,
+    "description": "Bukkuyum is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Bungudu",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880105,
+    "population": 252449,
+    "description": "Bungudu is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Gummi",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880106,
+    "population": 182521,
+    "description": "Gummi is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Gusau",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880107,
+    "population": 486789,
+    "description": "Gusau is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Kaura Namoda",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880108,
+    "population": 208285,
+    "description": "Kaura Namoda is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Maradun",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880109,
+    "population": 150348,
+    "description": "Maradun is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Maru",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880110,
+    "population": 205738,
+    "description": "Maru is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Shinkafi",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880111,
+    "population": 175985,
+    "description": "Shinkafi is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Talata Mafara",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880112,
+    "population": 179187,
+    "description": "Talata Mafara is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Tsafe",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880113,
+    "population": 225438,
+    "description": "Tsafe is a local government area in Zamfara State, Nigeria."
+  },
+  {
+    "name": "Zurmi",
+    "state": "Zamfara",
+    "region": "North West",
+    "postal_code": 880114,
+    "population": 217193,
+    "description": "Zurmi is a local government area in Zamfara State, Nigeria."
   }
 ]
 
