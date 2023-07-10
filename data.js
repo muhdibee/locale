@@ -5190,8 +5190,318 @@ const local_govt_area_data = [{
     "population": 234710,
     "description": "Tai is a local government area in Rivers State, Nigeria."
   },
-  
-
+  {
+    "name": "Binji",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843101,
+    "population": 193455,
+    "description": "Binji is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Bodinga",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 842102,
+    "population": 143542,
+    "description": "Bodinga is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Dange-Shuni",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 841101,
+    "population": 163734,
+    "description": "Dange-Shuni is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Gada",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843104,
+    "population": 117841,
+    "description": "Gada is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Goronyo",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 842104,
+    "population": 216373,
+    "description": "Goronyo is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Gudu",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 841103,
+    "population": 120679,
+    "description": "Gudu is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Gwadabawa",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 842106,
+    "population": 190784,
+    "description": "Gwadabawa is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Illela",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843106,
+    "population": 121829,
+    "description": "Illela is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Isa",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843102,
+    "population": 165718,
+    "description": "Isa is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Kebbe",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 842101,
+    "population": 128425,
+    "description": "Kebbe is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Kware",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 842107,
+    "population": 156747,
+    "description": "Kware is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Rabah",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843105,
+    "population": 140517,
+    "description": "Rabah is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Sabon Birni",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 842105,
+    "population": 221988,
+    "description": "Sabon Birni is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Shagari",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843107,
+    "population": 155152,
+    "description": "Shagari is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Silame",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 842109,
+    "population": 117769,
+    "description": "Silame is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Sokoto North",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 840101,
+    "population": 367809,
+    "description": "Sokoto North is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Sokoto South",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 840102,
+    "population": 212582,
+    "description": "Sokoto South is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Tambuwal",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843103,
+    "population": 170314,
+    "description": "Tambuwal is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Tangaza",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843109,
+    "population": 136852,
+    "description": "Tangaza is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Tureta",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843108,
+    "population": 113617,
+    "description": "Tureta is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Wamako",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843110,
+    "population": 190874,
+    "description": "Wamako is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Wurno",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843111,
+    "population": 147872,
+    "description": "Wurno is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Yabo",
+    "state": "Sokoto",
+    "region": "North West",
+    "postal_code": 843112,
+    "population": 125619,
+    "description": "Yabo is a local government area in Sokoto State, Nigeria."
+  },
+  {
+    "name": "Ardo Kola",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660101,
+    "population": 147994,
+    "description": "Ardo Kola is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Bali",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660102,
+    "population": 142532,
+    "description": "Bali is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Donga",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660103,
+    "population": 120312,
+    "description": "Donga is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Gashaka",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660104,
+    "population": 86814,
+    "description": "Gashaka is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Gassol",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660105,
+    "population": 114517,
+    "description": "Gassol is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Ibi",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660106,
+    "population": 172860,
+    "description": "Ibi is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Jalingo",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660107,
+    "population": 197939,
+    "description": "Jalingo is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Karim Lamido",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660108,
+    "population": 138880,
+    "description": "Karim Lamido is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Kumi",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660109,
+    "population": 108957,
+    "description": "Kumi is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Lau",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660110,
+    "population": 156345,
+    "description": "Lau is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Sardauna",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660111,
+    "population": 214954,
+    "description": "Sardauna is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Takum",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660112,
+    "population": 197529,
+    "description": "Takum is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Ussa",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660113,
+    "population": 111146,
+    "description": "Ussa is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Wukari",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660114,
+    "population": 301442,
+    "description": "Wukari is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Yorro",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660115,
+    "population": 162497,
+    "description": "Yorro is a local government area in Taraba State, Nigeria."
+  },
+  {
+    "name": "Zing",
+    "state": "Taraba",
+    "region": "North East",
+    "postal_code": 660116,
+    "population": 201135,
+    "description": "Zing is a local government area in Taraba State, Nigeria."
+  }
 ]
 
 const regions_data = [
