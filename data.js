@@ -879,12 +879,462 @@ const local_govt_area_data = [
   "population": 94928,
   "description": "Zaki is a local government area in Bauchi State, Nigeria."
 },
-
-
-
-
-
-
+{
+  "name": "Brass",
+  "state": "Bayelsa",
+  "region": "South South",
+  "postal_code": 561101,
+  "population": 142046,
+  "description": "Brass is a local government area in Bayelsa State, Nigeria."
+},
+{
+  "name": "Ekeremor",
+  "state": "Bayelsa",
+  "region": "South South",
+  "postal_code": 561102,
+  "population": 254997,
+  "description": "Ekeremor is a local government area in Bayelsa State, Nigeria."
+},
+{
+  "name": "Kolokuma/Opokuma",
+  "state": "Bayelsa",
+  "region": "South South",
+  "postal_code": 561103,
+  "population": 189829,
+  "description": "Kolokuma/Opokuma is a local government area in Bayelsa State, Nigeria."
+},
+{
+  "name": "Nembe",
+  "state": "Bayelsa",
+  "region": "South South",
+  "postal_code": 561104,
+  "population": 106260,
+  "description": "Nembe is a local government area in Bayelsa State, Nigeria."
+},
+{
+  "name": "Ogbia",
+  "state": "Bayelsa",
+  "region": "South South",
+  "postal_code": 561105,
+  "population": 178151,
+  "description": "Ogbia is a local government area in Bayelsa State, Nigeria."
+},
+{
+  "name": "Sagbama",
+  "state": "Bayelsa",
+  "region": "South South",
+  "postal_code": 561106,
+  "population": 193396,
+  "description": "Sagbama is a local government area in Bayelsa State, Nigeria."
+},
+{
+  "name": "Southern Ijaw",
+  "state": "Bayelsa",
+  "region": "South South",
+  "postal_code": 561107,
+  "population": 325192,
+  "description": "Southern Ijaw is a local government area in Bayelsa State, Nigeria."
+},
+{
+  "name": "Yenagoa",
+  "state": "Bayelsa",
+  "region": "South South",
+  "postal_code": 561108,
+  "population": 331438,
+  "description": "Yenagoa is a local government area in Bayelsa State, Nigeria."
+},
+{
+  "name": "Ado",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970101,
+  "population": 128056,
+  "description": "Ado is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Agatu",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970102,
+  "population": 174748,
+  "description": "Agatu is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Apa",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970103,
+  "population": 144200,
+  "description": "Apa is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Buruku",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970104,
+  "population": 198951,
+  "description": "Buruku is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Gboko",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970105,
+  "population": 334302,
+  "description": "Gboko is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Guma",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970106,
+  "population": 224001,
+  "description": "Guma is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Gwer East",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970107,
+  "population": 203567,
+  "description": "Gwer East is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Gwer West",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970108,
+  "population": 212301,
+  "description": "Gwer West is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Katsina-Ala",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970109,
+  "population": 285869,
+  "description": "Katsina-Ala is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Konshisha",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970110,
+  "population": 166017,
+  "description": "Konshisha is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Kwande",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970111,
+  "population": 267387,
+  "description": "Kwande is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Logo",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970112,
+  "population": 230257,
+  "description": "Logo is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Makurdi",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970113,
+  "population": 412646,
+  "description": "Makurdi is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Obi",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970114,
+  "population": 174480,
+  "description": "Obi is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Ogbadibo",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970115,
+  "population": 177753,
+  "description": "Ogbadibo is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Ohimini",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970116,
+  "population": 187553,
+  "description": "Ohimini is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Oju",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970117,
+  "population": 274466,
+  "description": "Oju is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Okpokwu",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970118,
+  "population": 196732,
+  "description": "Okpokwu is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Otukpo",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970119,
+  "population": 392756,
+  "description": "Otukpo is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Tarka",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970120,
+  "population": 153647,
+  "description": "Tarka is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Ukum",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970121,
+  "population": 229857,
+  "description": "Ukum is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Ushongo",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970122,
+  "population": 229003,
+  "description": "Ushongo is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Vandeikya",
+  "state": "Benue",
+  "region": "North Central",
+  "postal_code": 970123,
+  "population": 233480,
+  "description": "Vandeikya is a local government area in Benue State, Nigeria."
+},
+{
+  "name": "Abadam",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610103,
+  "population": 75697,
+  "description": "Abadam is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Askira/Uba",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610104,
+  "population": 142342,
+  "description": "Askira/Uba is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Bama",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610105,
+  "population": 196152,
+  "description": "Bama is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Bayo",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610106,
+  "population": 129032,
+  "description": "Bayo is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Biu",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610107,
+  "population": 273466,
+  "description": "Biu is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Chibok",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610108,
+  "population": 154409,
+  "description": "Chibok is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Damboa",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610109,
+  "population": 133062,
+  "description": "Damboa is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Dikwa",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610110,
+  "population": 175767,
+  "description": "Dikwa is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Gubio",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610111,
+  "population": 90999,
+  "description": "Gubio is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Guzamala",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610112,
+  "population": 69234,
+  "description": "Guzamala is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Gwoza",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610113,
+  "population": 271452,
+  "description": "Gwoza is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Hawul",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610114,
+  "population": 169834,
+  "description": "Hawul is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Jere",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610115,
+  "population": 167521,
+  "description": "Jere is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Kaga",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610116,
+  "population": 144541,
+  "description": "Kaga is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Kala/Balge",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610117,
+  "population": 108948,
+  "description": "Kala/Balge is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Konduga",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610118,
+  "population": 122117,
+  "description": "Konduga is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Kukawa",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610119,
+  "population": 106491,
+  "description": "Kukawa is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Kwaya Kusar",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610120,
+  "population": 108927,
+  "description": "Kwaya Kusar is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Mafa",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610121,
+  "population": 97147,
+  "description": "Mafa is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Magumeri",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610122,
+  "population": 88238,
+  "description": "Magumeri is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Maiduguri",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610123,
+  "population": 1669800,
+  "description": "Maiduguri is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Marte",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610124,
+  "population": 135822,
+  "description": "Marte is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Mobbar",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610125,
+  "population": 86758,
+  "description": "Mobbar is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Monguno",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610126,
+  "population": 165351,
+  "description": "Monguno is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Ngala",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610127,
+  "population": 195799,
+  "description": "Ngala is a local government area in Borno State, Nigeria."
+},
+{
+  "name": "Nganzai",
+  "state": "Borno",
+  "region": "North East",
+  "postal_code": 610128,
+  "population": 108469,
+  "description": "Nganzai is a local government area in Borno State, Nigeria."
+},
 {
   "name": "Shani",
   "state": "Borno",
@@ -6258,3 +6708,4 @@ const states_data = [
     local_govt_area_data
 };
   
+console.log("The lenght", local_govt_area_data.length);
