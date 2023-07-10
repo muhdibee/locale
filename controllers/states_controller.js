@@ -14,8 +14,8 @@ const get_states = async(req, res)=> {
 const search_states = async(req, res)=> {
     const {state} = req.params;
     try {
-        const all_states = await states.findOne({ name: { $regex: new RegExp(`^${state}$`, 'i') } }, {"name":1, "capital":1, "region":1, "population":1, "description":1, "no_of_lgas":1, "local_gov_areas":1,  "_id":0 });
-        return res.status(200).send({all_states})
+        const state_data = await states.findOne({ name: { $regex: new RegExp(`^${state}$`, 'i') } }, {"name":1, "capital":1, "region":1, "population":1, "description":1, "no_of_lgas":1, "local_gov_areas":1,  "_id":0 });
+        return res.status(200).send({state_data})
     }
     catch(err){
         console.log("Error: ", err)
