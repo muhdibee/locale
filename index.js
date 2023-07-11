@@ -10,6 +10,7 @@ const connect_to_database = require("./db_connection");
 const regions_router = require('./routes/regions_route');
 const states_router = require('./routes/states_route');
 const local_gov_areas_router = require('./routes/local_gov_areas_route');
+const search_router = require('./routes/search_route');
 const users_router = require('./routes/users_route');
 
 // Models
@@ -57,9 +58,9 @@ app.get("*", (req, res)=> {
 
 const addDataToDB = () => {
 
-    regions.deleteMany({})
+    local_gov_areas.deleteMany({})
     .then(()=>{
-        return regions.create(regions_data )
+        return local_gov_areas.create(local_gov_areas_data )
     })
     .then((result) => {
         console.log(`Inserted count: ${result.length}`);
@@ -73,7 +74,7 @@ const addDataToDB = () => {
     });   
 }
 
-// addDataToDB();
+addDataToDB();
 
 app.listen(PORT, ()=>{
     console.log("Listening on port: ", PORT);
