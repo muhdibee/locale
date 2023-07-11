@@ -39,6 +39,6 @@ const local_gov_areasSchema = new Schema({
 });
 
 // create users model
-const   local_gov_areas = mongoose.model("states", local_gov_areasSchema);
+const   local_gov_areas = mongoose.model("local_gov_areas", local_gov_areasSchema);
 
 module.exports = {local_gov_areas}

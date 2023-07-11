@@ -1,7 +1,7 @@
 require('dotenv').config();
-const mongoose =require("mongoose");
+const mongoose = require("mongoose");
 
-const Schema = mongoose.Schema
+const Schema = mongoose.Schema;
 const statesSchema = new Schema({
     name: {
         type: String,

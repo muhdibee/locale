@@ -8,18 +8,18 @@ const connect_to_database = require("./db_connection");
 
 // Routers
 const regions_router = require('./routes/regions_route');
-// const states_router = require('./routes/states_route');
+const states_router = require('./routes/states_route');
 const local_gov_areas_router = require('./routes/local_gov_areas_route');
 const users_router = require('./routes/users_route');
 
 // Models
 const {regions} = require('./models/regions_model');
-// const {states} = require('./models/states_model');
+const {states} = require('./models/states_model');
 const {local_gov_areas} = require('./models/local_gov_areas_model');
 
 // Data
 const {regions_data} = require("./data");
-// const {states_data} = require("./data");
+const {states_data} = require("./data");
 const {local_gov_areas_data} = require("./data");
 
 
@@ -36,7 +36,7 @@ app.use(cors());
 
 // Route Middleware
 app.use("/api/nigeria/regions", regions_router);
-// app.use("/api/nigeria/states", states_router);
+app.use("/api/nigeria/states", states_router);
 app.use("/api/nigeria/local_government_areas", local_gov_areas_router);
 app.use("/api/users", users_router);
 
@@ -54,23 +54,25 @@ app.get("*", (req, res)=> {
     res.status(404).send("Route not supported.")
 });
 
+const addDataToDB = () => {
 
-regions.deleteMany({})
-  .then(()=>{
-    return regions.create(regions_data )
-  })
-  .then((result) => {
-    console.log(`Inserted count: ${result.length}`);
-    // Close the MongoDB connection
-    // mongoose.connection.close();
-  })
+    regions.deleteMany({})
+    .then(()=>{
+        return regions.create(regions_data )
+    })
+    .then((result) => {
+        console.log(`Inserted count: ${result.length}`);
+        // Close the MongoDB connection
+        // mongoose.connection.close();
+    })
   .catch((err) => {
-    console.error('Error inserting documents:', err);
-    // Close the MongoDB connection
-    // mongoose.connection.close();
-  });
+      console.error('Error inserting documents:', err);
+      // Close the MongoDB connection
+      // mongoose.connection.close();
+    });   
+}
 
-
+// addDataToDB();
 
 app.listen(PORT, ()=>{
     console.log("Listening on port: ", PORT);
