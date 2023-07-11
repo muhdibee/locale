@@ -3,14 +3,14 @@ Locale Requirements:
 1. search functionality:
 - Generate and return API key for user authentication after user signing up. So users can see API key only once.
 - Users can search for information (Return all metadata) about nigeria based on the categories:  region, state and local government area(LGAs).
-- Users can search a region name to return all states in that region.
-- Users can search a state name to return all LGAs in that region.
-- Users can search an LGA name to return all metadata about that LGA.
+- Users can search a region name to return all metadata about that region.✔️
+- Users can search a state name to return all metadata about that state.✔️
+- Users can search an LGA name to return all metadata about that LGA. ✔️
 
 2. General APIs:
 - Users should be able to get all regions. ✔️
 - Users should be able to get all states. ✔️
-- Users should be able to get all LGAs.
+- Users should be able to get all LGAs. ✔️
 
 
 1. Region Model:
