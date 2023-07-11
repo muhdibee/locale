@@ -38,6 +38,7 @@ app.use(cors());
 app.use("/api/nigeria/regions", regions_router);
 app.use("/api/nigeria/states", states_router);
 app.use("/api/nigeria/local_government_areas", local_gov_areas_router);
+app.use("/api/nigeria/search", search_router);
 app.use("/api/users", users_router);
 
 

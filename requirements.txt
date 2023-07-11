@@ -8,9 +8,10 @@ Locale Requirements:
 - Users can search an LGA name to return all metadata about that LGA.
 
 2. General APIs:
-- Users should be able to get all regions.
+- Users should be able to get all regions. ✔️
 - Users should be able to get all states. ✔️
 - Users should be able to get all LGAs.
+
 
 1. Region Model:
 - id: string

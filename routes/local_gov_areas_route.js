@@ -5,9 +5,5 @@ const local_gov_areas_controller = require('../controllers/local_gov_areas_contr
 local_gov_areas_router.route("/")
 .get(local_gov_areas_controller.get_local_gov_areas);
 
-local_gov_areas_router.route("/:region")
-.get(local_gov_areas_controller.search_local_gov_areas);
-
-
 
 module.exports = local_gov_areas_router
