@@ -41,7 +41,7 @@ const statesSchema = new Schema({
     }
 });
 
-// create users model
+// create states model
 const   states = mongoose.model("states", statesSchema);
 
 module.exports = {states}

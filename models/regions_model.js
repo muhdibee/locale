@@ -1,6 +1,7 @@
+require('dotenv').config();
 const mongoose = require('mongoose');
-const Schema = mongoose.Schema();
 
+const Schema = mongoose.Schema;
 const regionsSchema = new Schema({
     name:{
         type: String,
@@ -29,6 +30,7 @@ const regionsSchema = new Schema({
 
 })
 
+// create regions model
 const regions = mongoose.model("regions", regionsSchema);
 
 module.exports = {regions}

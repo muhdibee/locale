@@ -6708,4 +6708,3 @@ const states_data = [
     local_govt_area_data
 };
   
-console.log("The lenght", local_govt_area_data.length);
