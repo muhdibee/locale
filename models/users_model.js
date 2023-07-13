@@ -1,7 +1,9 @@
-require('dotenv').config();
 const mongoose =require("mongoose");
 
 const Schema = mongoose.Schema;
+
+
+// Create user schema
 const UserSchema = new Schema({
     first_name: {
         type: String,
@@ -22,15 +24,16 @@ const UserSchema = new Schema({
         type: String,
         required:[true, "api_key is required"],
         default: "place holder api_key",
-        trim: true,
     },
     created_at: {
         type: Date,
-        required:[true, "api_key is required"],
+        required:[true, "created_at is required"],
         default: new Date().toISOString(),
 
     }
 });
+
+
 
 // create users model
 const   users = mongoose.model("users", UserSchema);
