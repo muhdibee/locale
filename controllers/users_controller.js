@@ -11,8 +11,10 @@ const get_users = async(req, res)=> {
     }
 };
 
-const post_user = async(req, res)=> {
+//SignUp a user
+const signUp_user = async(req, res)=> {
     const {first_name, last_name, email } = req.body;
+    
     try {
         const user = await users.create({
             first_name,
@@ -30,5 +32,5 @@ const post_user = async(req, res)=> {
 
 module.exports = {
     get_users,
-    post_user,
+    signUp_user,
 }

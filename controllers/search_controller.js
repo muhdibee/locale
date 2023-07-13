@@ -46,11 +46,11 @@ const search_local_gov_areas = async(req, res, q) => {
 const search = (req, res)=> {
     const {category, q} = req.query;
 
-    if(category === "regions"){
+    if(category === "region"){
         return searchRegions(req, res, q);
-    }else if(category === "states"){
+    }else if(category === "state"){
         return searchStates(req, res, q);
-    }else if(category === "local_gov_areas"){
+    }else if(category === "local_gov_area"){
         return search_local_gov_areas(req, res, q);
     }
 };

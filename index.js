@@ -56,23 +56,23 @@ app.get("*", (req, res)=> {
     res.status(404).send("Route not supported.")
 });
 
-const addDataToDB = () => {
+// const addDataToDB = () => {
 
-    local_gov_areas.deleteMany({})
-    .then(()=>{
-        return local_gov_areas.create(local_gov_areas_data )
-    })
-    .then((result) => {
-        console.log(`Inserted count: ${result.length}`);
-        // Close the MongoDB connection
-        // mongoose.connection.close();
-    })
-  .catch((err) => {
-      console.error('Error inserting documents:', err);
-      // Close the MongoDB connection
-      // mongoose.connection.close();
-    });   
-}
+//     local_gov_areas.deleteMany({})
+//     .then(()=>{
+//         return local_gov_areas.create(local_gov_areas_data )
+//     })
+//     .then((result) => {
+//         console.log(`Inserted count: ${result.length}`);
+//         // Close the MongoDB connection
+//         // mongoose.connection.close();
+//     })
+//   .catch((err) => {
+//       console.error('Error inserting documents:', err);
+//       // Close the MongoDB connection
+//       // mongoose.connection.close();
+//     });   
+// }
 
 // addDataToDB();
 
