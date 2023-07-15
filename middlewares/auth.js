@@ -11,6 +11,11 @@ const auth = async(req, res, next) => {
             throw "api key is required.";
         }
         const user = await users.findOne({api_key});
+
+        if(user === {}){
+            throw "Invalid api key.";
+        }
+        
         req.user = user;
         next()
     }catch(err){

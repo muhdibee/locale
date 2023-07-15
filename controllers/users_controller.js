@@ -18,20 +18,33 @@ const get_users = async(req, res)=> {
 
 //SignUp a user
 const signUp_user = async(req, res)=> {
-    const {first_name, last_name, email } = req.body;
-    const api_key = jwt.sign({first_name, last_name, email}, JWT_SECRET)
-    
     try {
-        const user = await users.create({
-            first_name,
-            last_name,
-            email,
-            api_key
-        });
-        return res.status(200).json({user})
+        const {first_name, last_name, email } = req.body;
+        const userExist = users.findOne({email});
+
+        if(userExist !=={}){
+            throw {"message": `A user with email '${email}' already exist. please use another email address.`}
+
+        }
+        const api_key = jwt.sign({first_name, last_name, email}, JWT_SECRET)
+        
+            const user = await users.create({
+                first_name,
+                last_name,
+                email,
+                api_key
+            });
+        return res.status(200).json({
+            "first_name":user.first_name, 
+            "last_name":user.last_name,
+            "email": user.email,
+            "api_key": user.api_key
+        })
     }
     catch(err){
         console.log("Error: ", err)
+        res.status(400).send( err)
+
     }
 };
 
