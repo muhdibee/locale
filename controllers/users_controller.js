@@ -20,7 +20,7 @@ const get_users = async(req, res)=> {
 const signUp_user = async(req, res)=> {
     try {
         const {first_name, last_name, email } = req.body;
-        const userExist = await users.findOne({email});
+        const userExist = await users.findOne({email: new RegExp(`^${email}$`, 'i') });
 
         // Check if user exist.
         if(userExist !== null){
