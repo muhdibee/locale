@@ -13,16 +13,6 @@ const local_gov_areas_router = require('./routes/local_gov_areas_route');
 const search_router = require('./routes/search_route');
 const users_router = require('./routes/users_route');
 
-// Models
-const {regions} = require('./models/regions_model');
-const {states} = require('./models/states_model');
-const {local_gov_areas} = require('./models/local_gov_areas_model');
-
-// Data
-const {regions_data} = require("./data");
-const {states_data} = require("./data");
-const {local_gov_areas_data} = require("./data");
-
 
 const app = express();
 const PORT = 5000;
@@ -50,31 +40,11 @@ app.get("/", (req, res)=> {
 });
 
 app.get("/api", (req, res)=> {
-    res.status(200).send("Welcome to Locale API \n if you have an account go to '/login' to login \n or go to '/sign_up' to create an account if you don't have one.")
+    res.status(200).send("Welcome to Locale API \n or go to 'api/users/signup' to create an account if you don't have one.")
 });
 app.get("*", (req, res)=> {
     res.status(404).send("Route not supported.")
 });
-
-// const addDataToDB = () => {
-
-//     local_gov_areas.deleteMany({})
-//     .then(()=>{
-//         return local_gov_areas.create(local_gov_areas_data )
-//     })
-//     .then((result) => {
-//         console.log(`Inserted count: ${result.length}`);
-//         // Close the MongoDB connection
-//         // mongoose.connection.close();
-//     })
-//   .catch((err) => {
-//       console.error('Error inserting documents:', err);
-//       // Close the MongoDB connection
-//       // mongoose.connection.close();
-//     });   
-// }
-
-// addDataToDB();
 
 app.listen(PORT, ()=>{
     console.log("Listening on port: ", PORT);
