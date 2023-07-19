@@ -1,4 +1,5 @@
 // Import dependencies
+require("dotenv").config();
 const express = require("express");
 const logger = require("morgan");
 const cors = require('cors');
@@ -15,7 +16,7 @@ const users_router = require('./routes/users_route');
 
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 // DB connection
 connect_to_database();
