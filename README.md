@@ -1,2 +1,2 @@
 # Locale
-A location service API
+Locale as a developer should be protected and every developer who tries to access the api should have an api key to authenticate their request. Developers will have their api key generated for them when they sign up. They can only see this api key once.
