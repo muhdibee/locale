@@ -1,2 +1,2 @@
 # Locale
-Locale as a developer should be protected and every developer who tries to access the api should have an api key to authenticate their request. Developers will have their api key generated for them when they sign up. They can only see this api key once.
+Locale is a developer tool for anyone who needs to know Nigeria, geographically at least. Locale’s API shows you all of Nigeria’s regions, states, and local government areas(LGAs). Locale is looking to be a very useful tool for the thousands of businesses building for Nigeria’s 200M+ population size. 
