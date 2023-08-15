@@ -9,4 +9,4 @@ Documentation on how to use this API can be found here: [https://muhdibee.stopli
 - [Muhammad Ibrahim](https://www.linkedin.com/in/muhdibee/)
 
 ## License
-[MIT](https://github.com/muhdibee/locale/LICENSE)
+[MIT](https://github.com/muhdibee/locale/blob/main/LICENSE)
