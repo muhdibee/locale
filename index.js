@@ -41,7 +41,7 @@ app.get("/", (req, res)=> {
 });
 
 app.get("/api", (req, res)=> {
-    res.status(200).send("Welcome to Locale API \n or go to 'api/users/signup' to create an account if you don't have one.")
+    res.status(200).send("Welcome to Locale API, check out the link: \"https://muhdibee.stoplight.io/docs/locale/\" for documentation on how this API works.")
 });
 app.get("*", (req, res)=> {
     res.status(404).send("Route not supported.")
